@@ -19,5 +19,4 @@ export {
   btnSaveLocalStorage,
   btnLoadLocalStorage,
   clearInputs
-  }
 }
